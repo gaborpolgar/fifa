@@ -1,0 +1,1 @@
+Statisztika azon helyezésváltozásokról, melyek esetében a csapatok száma több mint egy volt: -1 helyet változtatott: 6 csapat.0 helyet változtatott: 8 csapat.1 helyet változtatott: 3 csapat.
